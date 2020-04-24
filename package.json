@@ -1,0 +1,22 @@
+{
+  "name": "com.ulsa.platform2d-utils-package",
+  "version": "1.0.1",
+  "displayName": "2D Utils",
+  "description": "Esto es una paqueter\u00eda para juegos 2D",
+  "unity": "2019.3",
+  "keywords": [
+    "platform2D",
+    "topdown",
+    "rpg",
+    "physics",
+    "memory",
+    "menu"
+  ],
+  "author": {
+    "name": "ULSA Noroeste",
+    "email": "jfcarocota@gmail.com",
+    "url": "http://www.ulsa-noroeste.edu.mx/"
+  },
+  "license": "MIT",
+  "hideInEditor": false
+}
