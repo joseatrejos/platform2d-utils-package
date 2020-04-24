@@ -9,7 +9,7 @@ Para consumir este paquete, debes copiar lasiguiente line de código dentro de t
 ```json
 {
   "dependencies":{
-    "com.ulsa.platform2d-utils-package": "https://github.com/jfcarocota/platform2d-utils-package.git"
+    "com.joseatrejos.2d-utils": "https://github.com/joseatrejos/platform2d-utils-package.git"
   }
 }
 ```
