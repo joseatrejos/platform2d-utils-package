@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "displayName": "2D Utils",
   "description": "Esto es una paqueteria para juegos 2D (Sidescrollers & Top-down)",
-  "unity": "2019.3.10f",
+  "unity": "2019.3",
   "keywords": [
     "platform2D",
     "topdown",
