@@ -8,6 +8,7 @@ public class GameData
 {
     [SerializeField]
     Vector3 playerPos;
+    
     [SerializeField]
     string gameName;
 
