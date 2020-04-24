@@ -139,15 +139,13 @@ namespace Platform2DUtils.GameplaySystem
         }
         
         ///<summary>
-        /// Makes the player jump in a topdown game by moving him/her in the Z axis and altering its
-        //// scale to create the illusion of such jump.
+        /// Checks the distance to the player in order to make the enemy chase him/her
         ///</summary>
         ///<param name="enemyTransform">Transform component of the enemy</param>
         ///<param name="target">Transform component of the player</param>
         ///<param name="chaseRadius">The distance from which the enemy will begin to chase the player</param>
         ///<param name="moveSpeed">The coeficient of the enemy's speed</param>
-
-        void CheckDistance(Transform enemyTransform, Transform target, float chaseRadius, float moveSpeed)
+        public static void CheckDistance(Transform enemyTransform, Transform target, float chaseRadius, float moveSpeed)
         {
             if(target)
             {    
