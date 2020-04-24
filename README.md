@@ -4,7 +4,7 @@
 
 *Consumir paquetería*
 
-Para consumir este paquete, debes copiar lasiguiente line de código dentro de tu manifest.json, como una dependencia:
+Para consumir este paquete, debes copiar la siguiente línea de código dentro de tu manifest.json, como una dependencia:
 
 ```json
 {
