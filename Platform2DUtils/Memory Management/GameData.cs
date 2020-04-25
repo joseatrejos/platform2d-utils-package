@@ -14,6 +14,12 @@ public class GameData
 
     public GameData(){}
 
+///<sumary>
+/// The constructor of the save file
+///</sumary>
+///<param name="playerPos">//Player position</param>
+///<param name="gameName">//Game name</param>
+
     public GameData(Vector3 playerPos, string gameName)
     {
         this.playerPos = playerPos;
